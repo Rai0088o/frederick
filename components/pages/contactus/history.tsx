@@ -18,7 +18,7 @@ export default function History() {
           </div>
         </div>
       </div>
-      <div className="flex container -mt-12 mb-10">
+      <div className="flex container flex-wrap -mt-12 mb-10">
         <div className="p-4 md:w-1/3 flex">
           <div className="w-12 h-12 inline-flex items-center justify-center rounded-full  text-indigo-500 mb-4 flex-shrink-0">
             <Image src={warehouse} alt="warehouse" />
