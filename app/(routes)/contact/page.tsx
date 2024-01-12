@@ -1,6 +1,11 @@
 import BannerContact from '@/components/pages/contactus/banner'
 import History from '@/components/pages/contactus/history'
+import AboutUs from '@/components/sections/aboutus'
+import Blog from '@/components/sections/blog'
 import Header from '@/components/sections/header'
+import Shipment from '@/components/sections/shipment'
+import Shipping from '@/components/sections/shipping'
+import Offer from '@/components/sections/weoffer'
 import React from 'react'
 
 export default function page() {
@@ -11,6 +16,11 @@ export default function page() {
       </div>
         <BannerContact/>
         <History/>
+        <Offer/>
+        <Shipment/>
+        <AboutUs/>
+        <Shipping/>
+        <Blog/>
     </main>
   )
 }
