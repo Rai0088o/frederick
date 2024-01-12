@@ -54,3 +54,4 @@ Internal Payment Processor (ACH/Wire/Credit Card)
 Domain Name frederickcompanies.com
 Reference Website: https://www.nexttrucking.com/
 Create a similar layout to the reference website above. -->
+<!-- https://www.figma.com/file/5PVLSCbfPbnTVxKEfMrAeF/Frederick-Companies?type=design&node-id=0-1&mode=design -->
