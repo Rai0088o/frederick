@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+<!-- Logistics Company based in Houston, TX called “Frederick Companies”.
+Have hundreds of warehouses all over the united states
+Have hundreds of units for Full Truckload Dry Van, Reefer Trucks, LTL and more.
+Please see attachment for the structure of the website
+Home Page, About Us, News, Careers, Contact us,
+Services Pages: Warehousing, Trucking, Brokering, Transloading, Industrial Storage Yards
+We will utilize the content provided & create customized content for the site
+Customized google site map with pins showing their warehouse locations with details on each location when you click on the pins
+Responsive & Dynamic Design
+Optimized for Mobile/Tablet/Desktop
+Optimized for all browser types
+WC3 Certified HTML
+CMS (Content Management System) allowing full control of the content on the website and allows you to easily update or remove content.
+3 Customer Testimonials
+Internal Payment Processor (ACH/Wire/Credit Card)
+Domain Name frederickcompanies.com
+Reference Website: https://www.nexttrucking.com/
+Create a similar layout to the reference website above. -->
